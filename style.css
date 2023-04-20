@@ -35,6 +35,7 @@
   margin: 0 auto 0;
 }
 
+.task__label,
 .section__input {
   width: 56%;
   display: inline-block;
